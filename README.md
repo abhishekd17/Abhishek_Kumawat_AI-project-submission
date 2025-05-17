@@ -11,10 +11,6 @@ This project performs **Employee Sentiment Analysis** on internal communication 
 - [Tools & Libraries](#tools--libraries)
 - [Implementation Steps](#implementation-steps)
 - [How to Run](#how-to-run)
-- [Outputs & Visualizations](#outputs--visualizations)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
-
 ---
 
 ## Project Overview
